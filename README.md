@@ -6,7 +6,7 @@ An interactive, desktop-driven matchmaking platform engine engineered utilizing 
 
 ## 👥 Authorship & Faculty
 
-* **Professor:** [Insert Professor Name here]
+* **Professor:** Dr Luciana Campos
 * **Student:** Matheus Thiago de Souza Ferreira
 
 ---
