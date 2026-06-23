@@ -1,4 +1,4 @@
-# GetMeADate — Matchmaking Social Network Engine 🗓️❤️
+# Get Me A Date — Matchmaking Social Network Engine 🗓️❤️
 
 An interactive, desktop-driven matchmaking platform engine engineered utilizing Object-Oriented Programming (OOP) paradigms. The system analyzes user behavioral profiles, personal preferences, and biographical markers to dynamically calculate compatibility and pair matching social profiles. This application was developed as the final practical project for the **Computer Programming II** course in the Computer Engineering curriculum at CEFET-MG.
 
@@ -25,8 +25,10 @@ The application architecture features strong encapsulation and package grouping 
 │   └── manifest.mf               # Jar executable specification manifest
 ├── nbproject/                    # NetBeans local IDE metadata structures
 │   ├── private/
-│   ├── build-impl.xml \| genfiles.properties
-│   └── project.properties \| project.xml
+│   ├── build-impl.xml
+|   | genfiles.properties
+│   ├── project.properties
+|   └── project.xml
 └── README.md
 ```
 ### Subsystem Breakdown:
