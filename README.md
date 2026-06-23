@@ -26,7 +26,7 @@ The application architecture features strong encapsulation and package grouping 
 ├── nbproject/                    # NetBeans local IDE metadata structures
 │   ├── private/
 │   ├── build-impl.xml
-|   | genfiles.properties
+|   ├── genfiles.properties
 │   ├── project.properties
 |   └── project.xml
 └── README.md
